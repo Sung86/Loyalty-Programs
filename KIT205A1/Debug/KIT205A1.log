@@ -1,0 +1,6 @@
+﻿  bst.c
+  list.c
+  main.c
+C:\Users\User\Desktop\New folder (8)\KIT205A1\KIT205A1\main.c(156,7): warning C4013: 'getch' undefined; assuming extern returning int
+  Generating Code...
+  KIT205A1.vcxproj -> C:\Users\User\Desktop\New folder (8)\KIT205A1\Debug\`.exe
